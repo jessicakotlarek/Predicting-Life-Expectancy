@@ -1,6 +1,6 @@
 # Predicting Life Expectancy
 
-A multiple linear regression analysis identifying key drivers of global life expectancy — literacy, environmental performance, income, and continent — explaining 76% of cross-country variation.
+A multiple linear regression analysis identifying key drivers of global life expectancy: literacy, environmental performance, income, and continent, explaining 76% of cross-country variation.
 
 🔗 **[Try the interactive Shiny app](https://jessicakotlarek.shinyapps.io/LifeExpectancySimulator/)** — explore how different predictors affect life expectancy across countries.
 
